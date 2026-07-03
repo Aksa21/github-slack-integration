@@ -1,2 +1,3 @@
-# github-slack-integration
-To integrate github and slack using API
+git add .
+git commit -m "Testing GitHub webhook"
+git push
