@@ -1,3 +1,3 @@
 git add .
-git commit -m "Testing GitHub webhook Second time"
+git commit -m "Webhook test"
 git push
