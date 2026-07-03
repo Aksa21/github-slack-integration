@@ -1,3 +1,3 @@
 git add .
-git commit -m "Webhook test"
+git commit -m "Added Slack integration"
 git push
